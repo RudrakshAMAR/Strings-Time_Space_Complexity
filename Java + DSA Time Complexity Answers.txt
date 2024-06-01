@@ -1,4 +1,4 @@
-Java + DSA Time Complexity Answers
+Java + DSA Time Complexity Answer
 
 1. Time Complexity: O(log n) 
 2. Time Complexity: O(1)
